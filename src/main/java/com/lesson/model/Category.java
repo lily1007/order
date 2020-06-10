@@ -5,6 +5,7 @@ public class Category {
     int cid;
     String cname;
 	int a;
+	int b;
 
     public int getCid() {
         return cid;
